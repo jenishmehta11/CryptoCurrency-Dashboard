@@ -35,40 +35,11 @@ The dashboard provides a visual exploration of recent cryptocurrency market beha
 
 ## 🛠 Tools Used
 
-- **Data Source:** Manual export from CoinMarketCap  
-- **Data Cleaning:** Microsoft Excel / Python (optional)  
-- **Dashboarding Tool:** Tableau Public / Tableau Desktop  
+- **Data Source:** Manual export from CoinMarketCap.com
+- **Data Cleaning:** Microsoft Excel  
+- **Dashboarding Tool:** Tableau Desktop  
 
 ---
 
-## 📷 Preview
 
-*(Insert a screenshot here if available)*
-
-👉 **[View Dashboard on Tableau Public](https://public.tableau.com/your-dashboard-link)**
-
----
-
-## 📌 How to Use
-
-1. Open the dashboard on **Tableau Public** (or Tableau Desktop).
-2. Use the **filters** to select a specific cryptocurrency.
-3. Hover over any chart to view detailed daily price information.
-4. Analyze candlestick patterns, trends, and daily volatility.
-
----
-
-## ✅ Potential Enhancements
-
-- Add **moving averages** or **Bollinger Bands**
-- Integrate **sentiment analysis** or **crypto news feeds**
-- Expand to cover **longer timeframes** (e.g., 90 days)
-- Embed the dashboard in a personal **portfolio website**
-
----
-
-## 📄 License
-
-This project is for **educational and analytical purposes only**.  
-_Not intended as financial advice._
 
