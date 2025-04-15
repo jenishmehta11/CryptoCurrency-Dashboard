@@ -43,7 +43,11 @@ The dashboard provides a visual exploration of recent cryptocurrency market beha
 
 ## 📷 Preview
 
-*(Insert a screenshot here if available)*
+![image](https://github.com/user-attachments/assets/cd04707b-4ee3-421f-8dc4-c8a47b504ddd)
+
+![image](https://github.com/user-attachments/assets/c4b73c90-fbeb-48f9-8f91-e4af3367f346)
+
+
 
 👉 **[View Dashboard on Tableau Public](https://public.tableau.com/views/CryptocurrenyPriceAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
